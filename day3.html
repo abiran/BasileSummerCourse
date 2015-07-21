@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <html>
 <title>Hello</title>
+<head/>
 <body>
 <h1>Survey</h1>
 
@@ -12,9 +14,9 @@
     <fieldset>
         <legend>Name</legend>
         <label for="first_name">First Name.</label>
-        <input type="textbox" name="gender" value="" id="first_name" />
+        <input type="textbox" name="first_name" value="" id="first_name" />
         <label for="last_name">Last Name</label>
-        <input type="textbox" name="gender" value="" id="last_name" />
+        <input type="textbox" name="last_name" value="" id="last_name" />
     </fieldset>
     <fieldset>
         <legend>Gender</legend>
@@ -25,19 +27,19 @@
     </fieldset>
     <fieldset>
         <legend>Other</legend>
-Age
+<label for="age">Age</label>
     <select name="age">
         <option value="18-25">18-25</option>
         <option value="26-35">26-35</option>
         <option value="36-45">36-45</option>
         <option value="46+">46+</option>
     </select>
-<input type="checkbox" name="liked" value="liked" checked/>Yes, I love this class!<br/><br/>
+<input type="checkbox" name="liked" value="true" checked/>Yes, I love this class!<br/><br/>
         <label for="desc">Description</label><br/>
         <textarea rows="5" id="desc" name="desc"></textarea>
     </fieldset>
 <br/>
-<input type="reset" name="reset" value="Reset"/>
+<input type="reset" />
 <input type="submit"/>
 </form>
 
