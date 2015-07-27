@@ -1,0 +1,40 @@
+div {
+    border: 1px solid white;
+    border-width: 0 1px 1px 0;
+    float: left;
+    height: 15px;
+    width: 15px;
+}
+.babyblue{
+	background: #65ACC2;
+}
+.black{
+    background: black;
+}
+.blue{
+	background: #0F3369;
+}
+.cyan {
+    background: cyan;
+}
+.gray{
+	background: #DDD;
+}
+.green {
+    background: green;
+}
+.magenta {
+    background: magenta;
+}
+.skin{
+	background: #E4DFD8;
+}
+.white{
+	background: white;
+}
+.yellow {
+    background: yellow;
+}
+.new {
+    clear: both;
+}
