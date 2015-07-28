@@ -5,19 +5,19 @@ div {
     height: 15px;
     width: 15px;
 }
-.babyblue{
+.babyblue {
 	background: #00FFFF;
 }
-.black{
+.black {
     background: black;
 }
-.blue{
+.blue {
 	background: #0080FF;
 }
 .cyan {
     background: cyan;
 }
-.gray{
+.gray {
 	background: #DDD;
 }
 .green {
@@ -26,11 +26,8 @@ div {
 .magenta {
     background: magenta;
 }
-.skin{
+.skin {
 	background: #FFDBCB;
-}
-.white{
-	background: white;
 }
 .yellow {
     background: yellow;
