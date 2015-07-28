@@ -1,37 +1,37 @@
 div {
-    border: 1px solid white;
-    border-width: 0 1px 1px 0;
-    float: left;
-    height: 15px;
-    width: 15px;
+	border: 1px solid white;
+	border-width: 0 1px 1px 0;
+	float: left;
+	height: 15px;
+	width: 15px;
 }
 .babyblue {
 	background: #00FFFF;
 }
 .black {
-    background: black;
+	background: black;
 }
 .blue {
 	background: #0080FF;
 }
 .cyan {
-    background: cyan;
+	background: cyan;
 }
 .gray {
 	background: #DDD;
 }
 .green {
-    background: green;
+	background: green;
 }
 .magenta {
-    background: magenta;
+	background: magenta;
 }
 .skin {
 	background: #FFDBCB;
 }
 .yellow {
-    background: yellow;
+	background: yellow;
 }
 .new {
-    clear: both;
+	clear: both;
 }
